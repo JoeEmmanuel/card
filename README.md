@@ -1,2 +1,2 @@
 # card
-expanding card with Html Css javascript
+responsive cards
